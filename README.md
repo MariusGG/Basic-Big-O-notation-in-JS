@@ -21,9 +21,9 @@ I think front-end developer would benefit by knowing about Big O notation becaus
 
 Common Big O notations I will be looking at:
 ```
- • O(1)        Constant time algorithm
- • O(log(n)) Logarithmic time algorithm
- • O(n)        Linear time algorithm
+ • O(1)       Constant time algorithm
+ • O(log(n))  Logarithmic time algorithm
+ • O(n)       Linear time algorithm
  • O(n^2)     Quadratic time algorithm
  ```
 
