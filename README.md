@@ -6,14 +6,14 @@ _"Big O notation is a mathematical notation that describes the limiting behavior
 <a href="https://www.buymeacoffee.com/piotrekwitek">
  _Wikipedia definition_
 </a>
+
+```clone or download this repo and open _"index.js"_ to see my examples of some common Big O notations.```
 <hr/>
 
 ### **“What is Big O Notation?”**
   ![alt text](/img/Big-O-Notation.png)![alt text](/img/whats-dis-cat.gif)
 <hr/>
 </div>
-
-```clone or download this repo and open _"index.js"_ to see my examples of some common Big O notations.```
 
 ##### **_Summary:_**
 Big O notation can be describe as how fast or the number of operations an algorithm needs to perform on a given input. Having read serval debates as to whether it’s essential for a front-end developer to be aware of the Big O notation of their code. 
